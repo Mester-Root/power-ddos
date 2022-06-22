@@ -9,7 +9,7 @@ _____________________
 
 `apt install perl`
 
-`git clone https://github.com/Mr-Root/power-ddos`
+`git clone https://github.com/Mester-Root/power-ddos`
 
 `cd power-ddos`
 
